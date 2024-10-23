@@ -1,2 +1,2 @@
-# practice-24-1001
+# practice-24
 github start
